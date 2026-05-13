@@ -1,0 +1,56 @@
+{
+  "businessName": "Judex Oil Press",
+  "industry": "Palm Oil Manufacturing",
+  "tone": "professional and trustworthy",
+  "tagline": "Premium Quality Palm Oil from Farm to Table",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Judex Oil Press - Your Trusted Source for Pure, Fresh Palm Oil. Located in the heart of Ire Village, Umuoji, we bring you premium quality palm oil directly from our plantation to your table. Experience the authentic taste of tradition combined with modern processing standards.",
+      "imagePrompt": "Aerial view of a lush green palm oil plantation in rural Nigeria at golden hour, with neat rows of tall oil palm trees stretching into the distance, traditional palm oil processing facility visible in the background, warm sunlight filtering through fronds, photorealistic, vibrant greens and earth tones",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Judex Oil Press is a leading palm oil manufacturing company based in Ire Village, Umuoji, Onitsha North. We operate both a thriving palm plantation and a state-of-the-art oil press facility, ensuring complete control over quality from cultivation to production. Our commitment to excellence has made us a trusted name in the palm oil industry across Anambra State and beyond. We combine traditional farming wisdom with modern processing techniques to deliver palm oil that meets the highest standards of purity and freshness.",
+      "imagePrompt": "Modern palm oil processing facility in Nigeria with stainless steel equipment, workers in protective gear operating machinery, fresh red palm fruits being processed, clean industrial environment, bright natural lighting, professional photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "Premium Red Palm Oil - Fresh, pure, and unrefined palm oil rich in natural nutrients and authentic flavor. Perfect for cooking, frying, and traditional Nigerian dishes.\n\nBulk Supply - We cater to retailers, restaurants, and food manufacturers with reliable bulk supply options at competitive wholesale prices.\n\nFresh Palm Kernel Oil - High-quality kernel oil extracted using modern pressing technology, ideal for both culinary and commercial use.\n\nCustom Processing - We offer palm oil pressing services for farmers and smallholders who want to process their own harvest using our facility.\n\nDelivery Services - Convenient delivery across Onitsha North and surrounding areas in Anambra State.",
+      "imagePrompt": "Array of glass bottles and jerry cans filled with golden-red palm oil arranged on a wooden table, fresh palm fruits in a woven basket nearby, traditional Nigerian kitchen setting in background, natural daylight, product photography style, clean and appetizing presentation",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Judex Oil Press",
+      "copy": "Farm-to-Press Quality Control - We own our plantation, giving us complete oversight of the entire production process from tree to bottle.\n\nFreshness Guaranteed - Our oil is processed immediately after harvest, ensuring maximum freshness and nutrient retention.\n\nLocal & Sustainable - Supporting local agriculture in Umuoji and practicing sustainable farming methods that protect our environment.\n\nCompetitive Pricing - Direct manufacturing means no middlemen, allowing us to offer excellent value without compromising on quality.\n\nExperienced Team - Years of expertise in palm cultivation and oil processing ensure consistent, premium results every time.\n\nTrusted by the Community - Proudly serving homes, restaurants, and businesses across Onitsha North and Anambra State.",
+      "imagePrompt": "Skilled Nigerian farmer in work clothes inspecting healthy palm fruits on the tree, rural plantation setting, bright afternoon sunlight, authentic documentary-style photography, depth of field showing rows of palm trees behind, honest and hardworking atmosphere",
+      "layout": "cards"
+    },
+    {
+      "id": "process",
+      "name": "Our Production Process",
+      "copy": "1. Sustainable Cultivation - Our palm plantation in Ire Village is carefully maintained using sustainable farming practices that ensure healthy trees and quality fruit.\n\n2. Careful Harvesting - Ripe palm fruits are harvested at peak maturity to guarantee optimal oil yield and rich color.\n\n3. Modern Processing - Fresh fruits are transported immediately to our oil press facility where they undergo efficient, hygienic processing.\n\n4. Quality Extraction - Using modern pressing technology, we extract pure oil while maintaining its natural properties and nutritional value.\n\n5. Careful Packaging - The finished oil is packaged in clean, food-grade containers to preserve freshness and quality.\n\n6. Ready for You - From our press to your kitchen, delivered fresh and ready to enhance your cooking.",
+      "imagePrompt": "Step-by-step collage showing palm oil production process: fresh palm fruits being harvested, steaming process, oil extraction machinery, bottling operation, all in a clean Nigerian facility, bright professional lighting, educational infographic style photography",
+      "layout": "default"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to experience the difference of fresh, locally-produced palm oil? Get in touch with Judex Oil Press today for orders, inquiries, or to discuss bulk supply arrangements.\n\nWhether you're a homemaker looking for quality cooking oil, a restaurant owner seeking reliable supply, or a retailer interested in stocking premium products, we're here to serve you.\n\nVisit our facility in Ire Village, Umuoji, or reach out by phone or WhatsApp. We look forward to bringing the finest palm oil to your table.",
+      "imagePrompt": "Welcoming exterior of a palm oil processing facility in rural Nigeria, clean compound with palm trees, signage visible, delivery truck parked outside, blue sky, inviting and professional atmosphere, daytime photography",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 803 354 8979",
+    "email": "info@judexoilpress.com",
+    "address": "Ire Village, Umuoji, Onitsha North, Anambra State, Nigeria",
+    "whatsapp": "https://wa.me/2348033548979"
+  }
+}
